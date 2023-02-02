@@ -2,7 +2,7 @@
 // @name         Liquid Crystal
 // @version      1.00
 // @description  Free open-source game cheat for Tanki Online.
-// @author       Zorroa
+// @author       Zorro
 // @match        https://*.test-eu.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=test.tankionline.com
 
